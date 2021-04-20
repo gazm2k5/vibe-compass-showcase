@@ -12,4 +12,4 @@ The app makes numerous requests to Spotify using the SpotifyAPI.py which I wrote
 Any authorisation or API errors are handled by the same file, directing the user to an appropriate message on how to remedy the error. It is designed to handle edge cases such as if the user grants access but revokes it manually via Spotify etc.
 
 # Footnote
-It should be noted that this app is simply a concept, with the major hurdle being generating a more useful set of parameters, as by default Spotify only offers a handful which are not always accurate. That is, it may label a song as 90/100 on Danceability when in reality it's a very slow song.
+It should be noted that this app is simply a concept, with the major hurdle being generating a more useful set of parameters, as by default Spotify only offers a handful which are not always accurate. That is, it may label a song as 90/100 on Danceability when in reality it is not a dance song at all.
