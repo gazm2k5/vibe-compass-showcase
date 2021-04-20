@@ -1,7 +1,7 @@
 # vibe-compass-showcase
 The Vibe Compass app is featured on my website, https://www.sunfire.xyz/spotify/vibe-compass
 
-It is a concept for a method of creating Dynamics playlists by having the user create a large playlist with all their desired songs, and using the app to generate an order to pursue the vibe you want, rather than queuing songs manually.
+It is a concept for a method of creating dynamics playlists by having the user create a large playlist with all their desired songs, and using the app to generate an order to pursue the vibe you want, rather than queuing songs manually.
 
 This github repo is a showcase, as the actual implementation of the app is part of my Django implementation of the entire website and is therefore private. This public repo serves to show how the app was implemented.
 
