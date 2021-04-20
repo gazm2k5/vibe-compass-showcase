@@ -3,7 +3,7 @@ The Vibe Compass app is featured on my website, https://www.sunfire.xyz/spotify/
 
 It is a concept for a method of creating dynamic playlists by having the user create a large playlist with all their desired songs, and using the app to generate an order to pursue the vibe you want, rather than queuing songs manually.
 
-This github repo is a showcase, as the actual implementation of the app is part of my Django implementation of the entire website and is therefore private. This public repo serves to show how the app was implemented.
+This github repo is a showcase, as the actual implementation of the app is part of my Django implementation of the entire website and is therefore private. This public repo serves to show how this Dash app works, without comprimising the privacy and security of my entire website.
 
 # How the app works
 The views.py file first tells Django which page to render, utilising the Spotify Authorisation flow implemented in spotify_auth_flow.py. Upon successful Authorisation, the user is directed to the Dash app, vibe_compass_app.py.
