@@ -1,4 +1,4 @@
-# vibe-compass-showcase
+# Showcasing the Vibe Compass app's code
 The Vibe Compass app is featured on my website, https://www.sunfire.xyz/spotify/vibe-compass
 
 It is a concept for a method of creating dynamic playlists by having the user create a large playlist with all their desired songs, and using the app to generate an order to pursue the vibe you want, rather than queuing songs manually.
